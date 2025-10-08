@@ -8,8 +8,8 @@ namespace Mostenire
 {
     class Persoana
     {
-        public string nume, prenume;
-        public int varsta;
+        protected string nume, prenume;
+        protected int varsta;
 
         public Persoana(string n = null, string p = null, int v = 0)
         {
@@ -21,13 +21,14 @@ namespace Mostenire
 
     class Salariat : Persoana
     {
-        string badge;
+        protected string badge;
 
-        public Salariat(string n, string p, int v, string b)
+        public Salariat(string n, string p, int v, string b) : base(n, p, v)
         {
-            nume = n;
-            prenume = p;
-            varsta = v;
+            //NU SE RECOMANDA ASTA
+            // nume = n;
+            // prenume = p;
+            // varsta = v;
             badge = b;
         }
     }
