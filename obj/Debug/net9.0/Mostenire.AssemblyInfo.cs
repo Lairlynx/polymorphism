@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mostenire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59f18cd2797e52c73d8b94a19ddaff2cd08b54d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db9b24654f542f7278a51a3177fc4d175e8354a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mostenire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mostenire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

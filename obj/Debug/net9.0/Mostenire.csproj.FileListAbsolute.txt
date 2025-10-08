@@ -12,3 +12,4 @@ c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\refint\Mostenire.d
 c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.pdb
 c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.genruntimeconfig.cache
 c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\ref\Mostenire.dll
+C:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.sourcelink.json
