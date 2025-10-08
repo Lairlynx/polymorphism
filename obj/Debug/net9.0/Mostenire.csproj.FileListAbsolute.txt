@@ -1,0 +1,14 @@
+c:\DEV_APPS\dotNET basics training\Mostenire\bin\Debug\net9.0\Mostenire.exe
+c:\DEV_APPS\dotNET basics training\Mostenire\bin\Debug\net9.0\Mostenire.deps.json
+c:\DEV_APPS\dotNET basics training\Mostenire\bin\Debug\net9.0\Mostenire.runtimeconfig.json
+c:\DEV_APPS\dotNET basics training\Mostenire\bin\Debug\net9.0\Mostenire.dll
+c:\DEV_APPS\dotNET basics training\Mostenire\bin\Debug\net9.0\Mostenire.pdb
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.GeneratedMSBuildEditorConfig.editorconfig
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.AssemblyInfoInputs.cache
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.AssemblyInfo.cs
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.csproj.CoreCompileInputs.cache
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.dll
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\refint\Mostenire.dll
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.pdb
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\Mostenire.genruntimeconfig.cache
+c:\DEV_APPS\dotNET basics training\Mostenire\obj\Debug\net9.0\ref\Mostenire.dll
